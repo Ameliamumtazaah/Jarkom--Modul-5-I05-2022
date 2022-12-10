@@ -14,3 +14,4 @@
 4. Provide ip on the Forger, Desmond, Blackbell, and Briar subnets dynamically using the DHCP server. Then you remember that you have to set DHCP Relay on the router that connects it.
 
 ### Initial Node Conditions
+![Topology modul 5](https://user-images.githubusercontent.com/112918215/206858332-4a0fc080-05a5-42d4-9691-f85cdfd8e6af.jpeg)
