@@ -15,3 +15,8 @@
 
 ### Initial Node Conditions
 ![Topology modul 5](https://user-images.githubusercontent.com/112918215/206858332-4a0fc080-05a5-42d4-9691-f85cdfd8e6af.jpeg)
+
+### IP Calculation
+Deciding how many IP that are needed for each subnet and labeled the netmask as the amount of IP that are needed.
+| Subnet| Alias | Total IP | Netmask | 
+| ------ | ------ | ------ | ------ |
