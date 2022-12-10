@@ -20,3 +20,4 @@
 Deciding how many IP that are needed for each subnet and labeled the netmask as the amount of IP that are needed.
 | Subnet| Alias | Total IP | Netmask | 
 | ------ | ------ | ------ | ------ |
+| A1 | westalis-eden-wise | 3 | 29 |
