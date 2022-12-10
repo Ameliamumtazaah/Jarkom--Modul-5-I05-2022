@@ -21,3 +21,11 @@ Deciding how many IP that are needed for each subnet and labeled the netmask as 
 | Subnet| Alias | Total IP | Netmask | 
 | ------ | ------ | ------ | ------ |
 | A1 | westalis-eden-wise | 3 | 29 |
+| A2 | westalis-forger| 63 | 25 |
+| A3 | westalis-strix| 2 | 30 |
+| A4 | strix-ostania| 2 | 30 |
+| A5 | ostania-blackbell| 256 | 23 |
+| A6 | ostania - briar| 31 | 26 |
+| A7 | ostania - garden - sss| 3| 29 |
+| A8 | owestalis - desmond | 701 | 22 |
+| Total | ------ | 1061 | 21 |
