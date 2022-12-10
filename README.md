@@ -28,4 +28,4 @@ Deciding how many IP that are needed for each subnet and labeled the netmask as 
 | A6 | ostania - briar| 31 | 26 |
 | A7 | ostania - garden - sss| 3| 29 |
 | A8 | owestalis - desmond | 701 | 22 |
-| Total | ------ | 1061 | 21 |
+| Total | | 1061 | 21 |
